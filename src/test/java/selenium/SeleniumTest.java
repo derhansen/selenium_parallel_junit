@@ -27,70 +27,70 @@ public class SeleniumTest {
 
     @Test
     public void checkGoogleTitle1() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle2() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle3() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle4() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle5() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle6() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle7() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle8() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle9() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
 
     @Test
     public void checkGoogleTitle10() {
-        this.driver.get("http://www.google.com");
+        this.driver.get("https://www.google.com");
         String title = this.driver.getTitle();
         Assert.assertEquals("Google", title);
     }
