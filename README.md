@@ -4,4 +4,4 @@ Selenium tests in parallel with JUnit
 What does it do?
 -
 
-This maven project shows how to execute Selenium tests in parallel with JUnit.
+This maven project shows how to execute Selenium tests in parallel with JUnit by using the JUnit ParallelComputer class.
